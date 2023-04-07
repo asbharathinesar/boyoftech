@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boyoftech
+- 👋 Hi, I’m @A S Bharathi Nesar
 - 👀 I’m interested in PYTHON, AI
 - 🌱 I’m currently learning python, web
 - 💞️ I’m looking to collaborate on google
